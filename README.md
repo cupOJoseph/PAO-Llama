@@ -1,3 +1,7 @@
+# Try PAO Llama live online
+We suggest you download [Metamask](https://metamask.io) first.
+http://josephschiarizzi.com/PAO-Llama/
+
 # JavaScript GameBoy Color Emulator
 
 Fork of Grant Galitz's JavaScript GameBoy Color Emulator made for running a single ROM
