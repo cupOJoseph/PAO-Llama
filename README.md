@@ -1,6 +1,6 @@
 # Try PAO Llama live online
 We suggest you download [Metamask](https://metamask.io) first.
-http://josephschiarizzi.com/PAO-Llama/
+https://cupojoseph.github.io/PAO-Llama/
 
 # JavaScript GameBoy Color Emulator
 
